@@ -5,5 +5,12 @@
     "ms-toolsai.jupyter-keymap",
     "ms-toolsai.jupyter-renderers",
     "formulahendry.code-runner",
+    "cweijan.vscode-mysql-client2",
+    "anwar.papyrus-pdf",
+    "dracula-theme.theme-dracula",
+    "gencay.vscode-chatgpt",
+    "wholroyd.jinja",
+    "batisteo.vscode-django",
+
   ]
 }

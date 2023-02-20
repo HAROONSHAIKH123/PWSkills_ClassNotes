@@ -2,4 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
-ipykernel
+
+mysql-connector-python
+pymongo
+
+Flask
