@@ -9,7 +9,7 @@ ipykernel
 # pymongo
 
 
-# Flask
-# Flask_cors
-# requests
-# bs4
+Flask
+Flask_cors
+requests
+bs4

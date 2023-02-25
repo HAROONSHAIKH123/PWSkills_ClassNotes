@@ -50,5 +50,6 @@ df.head(2)
 
 # To remove hidden file:
 ```
+ls -a
 rm -rf ".fileName"
 ```
