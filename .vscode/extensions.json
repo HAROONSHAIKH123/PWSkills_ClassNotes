@@ -11,6 +11,7 @@
     "gencay.vscode-chatgpt",
     "wholroyd.jinja",
     "batisteo.vscode-django",
+    "ms-toolsai.vscode-jupyter-powertoys"
 
   ]
 }

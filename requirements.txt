@@ -2,8 +2,13 @@ pandas
 numpy
 seaborn
 matplotlib
+ipykernel
 
-mysql-connector-python
-pymongo
 
-Flask
+# mysql-connector-python
+# pymongo
+# Flask
+
+
+# requests
+# bs4
