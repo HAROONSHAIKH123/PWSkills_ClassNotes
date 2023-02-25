@@ -7,8 +7,9 @@ ipykernel
 
 # mysql-connector-python
 # pymongo
-# Flask
 
 
+Flask
+Flask_cors
 requests
 bs4
