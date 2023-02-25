@@ -48,5 +48,7 @@ df = sns.load_dataset('titanic')
 df.head(2)
 ```
 
-
-
+# To remove hidden file:
+```
+rm -rf ".fileName"
+```
