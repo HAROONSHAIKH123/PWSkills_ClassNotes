@@ -29,3 +29,21 @@ import matplotlib.pyplot as plt
 df = sns.load_dataset('titanic')
 df.head(2)
 ```
+
+# or create a new repository on the command line:
+```
+echo "# asdf" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HAROONSHAIKH123/asdf.git
+git push -u origin main
+```
+# or push an existing repository from the command line:
+```
+git remote add origin https://github.com/HAROONSHAIKH123/asdf.git
+git branch -M main
+git push -u origin main
+```
+
