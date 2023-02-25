@@ -10,5 +10,5 @@ ipykernel
 # Flask
 
 
-# requests
-# bs4
+requests
+bs4

@@ -1,8 +1,8 @@
-# lab-python
-
-Command to run main.py file:
-
-```python main.py```
+# Git ID
+```
+git config --global user.email "hrrnshaikh@gmail.com"
+git config --global user.name "HAROONSHAIKH123"
+```
 
 # Data file:
 ```
