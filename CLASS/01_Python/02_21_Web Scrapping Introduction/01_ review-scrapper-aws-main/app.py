@@ -76,7 +76,7 @@ def index():
 
 
             # load data in mongodb
-            client = pymongo.MongoClient("mongodb+srv://ineuron:M@m27030111@cluster0.a0mmpir.mongodb.net/?retryWrites=true&w=majority")
+            client = pymongo.MongoClient("mongodb+srv://ineuron:<password>@cluster0.a0mmpir.mongodb.net/?retryWrites=true&w=majority")
             db = client['review_scrap']
             review_col = db['review_scrap_data']
             review_col.insert_many(reviews)
