@@ -25,16 +25,19 @@ git push -u origin main
 # Data file:
 ```
 wine quality data red
-data = 'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv'
+'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv'
 
 algerian forest
-data = 'https://archive.ics.uci.edu/ml/machine-learning-databases/00547/Algerian_forest_fires_dataset_UPDATE.csv'
+'https://archive.ics.uci.edu/ml/machine-learning-databases/00547/Algerian_forest_fires_dataset_UPDATE.csv'
 
 play store 
-data = 'https://raw.githubusercontent.com/jasonchang0/kaggle-google-apps/master/google-play-store-apps/googleplaystore.csv'
+'https://raw.githubusercontent.com/jasonchang0/kaggle-google-apps/master/google-play-store-apps/googleplaystore.csv'
 
 employee data
-data = 'https://gist.githubusercontent.com/kevin336/acbb2271e66c10a5b73aacf82ca82784/raw/e38afe62e088394d61ed30884dd50a6826eee0a8/employees.csv'
+'https://gist.githubusercontent.com/kevin336/acbb2271e66c10a5b73aacf82ca82784/raw/e38afe62e088394d61ed30884dd50a6826eee0a8/employees.csv'
+
+titanic
+"https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 ```
 
 # Basic library:
