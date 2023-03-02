@@ -3,6 +3,7 @@
 git config --global user.email "hrrnshaikh@gmail.com"
 git config --global user.name "HAROONSHAIKH123"
 git push origin main
+
 ```
 # or create a new repository on the command line:
 ```
@@ -11,7 +12,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/HAROONSHAIKH123/asdf.git
+git remote add origin https://github.com/HAROONSHAIKH123/PWSkills_ClassNotes.git
 git push -u origin main
 ```
 
