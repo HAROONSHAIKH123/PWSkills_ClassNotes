@@ -2,6 +2,7 @@
 ```
 git config --global user.email "hrrnshaikh@gmail.com"
 git config --global user.name "HAROONSHAIKH123"
+git commit -m "Updated"
 git push origin main
 
 ```
@@ -39,6 +40,9 @@ employee data
 
 titanic
 "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
+
+Banglore house price
+"https://raw.githubusercontent.com/rcz7795/Bangalore-Housing-Price-Prediction/master/Bengaluru_House_Data.csv"
 ```
 
 # Basic library:
